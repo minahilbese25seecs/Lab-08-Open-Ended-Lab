@@ -2,7 +2,7 @@
 
 **Name of the Game:** The Anonymous Murder<br>
 
-**Insturctions:**<br>
+**Instructions:**<br>
 
 You are a policeman who has been ordered to investigate a murder in a mysterious town.You have to be really careful as your promotion depends on the success of this case.If u fail to do so, there may be chances of a demotion or even worse, your name as a successful policeman will no longer exist...<br>
 
