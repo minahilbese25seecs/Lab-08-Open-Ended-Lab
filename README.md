@@ -1,6 +1,6 @@
 # Lab-08-Open-Ended-Lab<br>
 
-**Name of the Game:** The Anonymous Murder<br>
+**Name of the Game:** The Anonymous Murderer<br>
 
 **Instructions:**<br>
 
